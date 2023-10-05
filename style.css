@@ -14,4 +14,15 @@ body{
     background-repeat: no-repeat,no-repeat;
     background-size: 50vw,50vw;
     background-position: left -10% top 50%,right -0% top -20%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.card{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(251, 246, 246, 0.305);
+    border-radius: 30px;
 }
