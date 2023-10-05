@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(./images/bg-pattern-top.svg),url(./images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat,no-repeat;
+    background-size: 50vw,50vw;
+    background-position: left -10% top 50%,right -0% top -20%;
+}
