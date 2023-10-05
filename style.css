@@ -1,3 +1,8 @@
+:root{
+    --clr-cyan-dark: hsl(185, 75%, 39%);
+    --clr-blue-dark:hsl(229, 23%, 23%);
+    --clr-dark-greysh-blue: hsl(227, 10%, 46%);
+}
 body{
     background-color: rgb(0, 0, 0);
     background-image: url(./images/bg-pattern-top.svg),url(./images/bg-pattern-bottom.svg);
